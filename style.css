@@ -7,11 +7,15 @@ h1 {
 
 }
 
+h2 {
+    color: rgb(115, 95, 226);
+}
+
 a {
     color: rgb(207, 101, 101);
 }
 
-#chef-img {
+.image {
     height: auto;
     width: 450px;
     margin-left: auto;
