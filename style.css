@@ -1,6 +1,5 @@
-body {
+* {
     font-family: Arial, sans-serif;
-    text-align: center;
 }
 
 h1 {
@@ -19,6 +18,13 @@ a {
     margin-right: auto;
     display: block;
 }
+
+.center {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
 .link {
     font-size: large;
 }
